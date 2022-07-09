@@ -13,6 +13,7 @@ public class ejercicio5 {
         cateto2 = sc.nextDouble();
 
         // h^2 = c^2 + c^2 ó h= sqrt(c^2 + c^2) formula del cálculo de la hipotenusa
+        // sqrt significa raíz cuadrada
 
         hipotenusa = Math.sqrt(Math.pow(cateto1, 2) + Math.pow(cateto2, 2));
 
